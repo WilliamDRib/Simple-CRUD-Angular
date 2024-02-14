@@ -1,4 +1,4 @@
-# teste-vimbo-tecnologia
+# CRUD with Angular
 
 1- Para iniciar o Server do NodeJS, vá até a pasta do "server" e execute o comando no CMD :"node app.js".
 
